@@ -48,8 +48,8 @@ public class ProdMatrix
                 for(int j= 0; j < col2; j++){    
                    System.out.print(prod[i][j] + " ");    
                 }    
-                System.out.println();    
-            }    
+                    
+               
         }    
     }    
-} 
+
